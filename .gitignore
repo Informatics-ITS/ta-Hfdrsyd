@@ -1,0 +1,26 @@
+# Abaikan folder checkpoint dari Jupyter
+.ipynb_checkpoints/
+
+# Abaikan file notebook checkpoint jika ada
+*-checkpoint.ipynb
+
+# Abaikan file sementara dan sistem
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Abaikan file lingkungan virtual
+.env/
+.venv/
+env/
+venv/
+
+# Abaikan file konfigurasi/editor lokal
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+.idea/
+.vscode/

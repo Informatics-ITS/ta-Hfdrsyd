@@ -1,75 +1,46 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Muhammad Hafidh Rosyadi  
+**NRP**: 5025211013  
+**Judul TA**: ATRIBUSI PENULIS PADA DANGEROUS USER DI TWITTER MENGGUNAKAN PENDEKATAN TANPA PENGAWASAN DENGAN IndoBERTweet  
+**Dosen Pembimbing**: Baskoro Adi Pratomo, S.Kom., M.Kom., Ph.D.  
+**Dosen Ko-pembimbing**: Prof. Dr. Diana Purwitasari, S.Kom., M.Sc.  
 
 ---
 
-## 📺 Demo Aplikasi  
-Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):  
+## 📺 Demo Kode  
 
-[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
-*Klik gambar di atas untuk menonton demo*
+
+[[Demo Kode]](https://www.youtube.com/watch?v=`VIDEO_ID`)  
+*Klik di atas untuk menonton demo*
 
 ---
 
 *Konten selanjutnya hanya merupakan contoh awalan yang baik. Anda dapat berimprovisasi bila diperlukan.*
 
-## 🛠 Panduan Instalasi & Menjalankan Software  
+## 🛠 Panduan Instalasi & Menjalankan Kode
 
 ### Prasyarat  
-- Daftar dependensi (contoh):
-  - Python 3.10+
-  - Node.js v18+
-  - MySQL 8.0
-  - [Lainnya...]
+- Python 3.10+
 
 ### Langkah-langkah  
 1. **Clone Repository**  
    ```bash
-   git clone https://github.com/Informatics-ITS/TA.git
+   https://github.com/Informatics-ITS/ta-Hfdrsyd.git
    ```
-2. **Instalasi Dependensi**
-   ```bash
-   cd [folder-proyek]
-   pip install -r requirements.txt  # Contoh untuk Python
-   npm install  # Contoh untuk Node.js
-   ```
-3. **Konfigurasi**
-- Salin/rename file .env.example menjadi .env
-- Isi variabel lingkungan sesuai kebutuhan (database, API key, dll.)
-4. **Jalankan Aplikasi**
-   ```bash
-   python main.py  # Contoh untuk Python
-   npm start      # Contoh untuk Node.js
-   ```
-5. Buka browser dan kunjungi: `http://localhost:3000` (sesuaikan dengan port proyek Anda)
+2. **Instalasi Library**
+   jalankan cell code yang ada dibagian teratas file python notebook (yang berisi pip install ...)
+3. **Menjalankan Kode**
+   Jalankan cell code sesuai dengan yang dibutuhkan
 
----
-
-## 📚 Dokumentasi Tambahan
-
-- [![Dokumentasi API]](docs/api.md)
-- [![Diagram Arsitektur]](docs/architecture.png)
-- [![Struktur Basis Data]](docs/database_schema.sql)
-
----
-
-## ✅ Validasi
-
-Pastikan proyek memenuhi kriteria berikut sebelum submit:
-- Source code dapat di-build/run tanpa error
-- Video demo jelas menampilkan fitur utama
-- README lengkap dan terupdate
-- Tidak ada data sensitif (password, API key) yang ter-expose
-
+Kegunaan file file kode:
+1. Crawl_data_twitter.ipynb untuk melakukan scraping data twitter
+2. DangerousTwit.ipynb untuk melakukan ekstraksi fitur hingga percobaan algoritma, pada data pembersihan sederhana
+3. DangerousTwit_clean.ipynb
 ---
 
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [email@mahasiswa]
+- Penulis: [mhafidhrosyadi@mahasiswa]
 - Pembimbing Utama: [email@pembimbing]
