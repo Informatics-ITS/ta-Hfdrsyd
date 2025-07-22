@@ -39,8 +39,11 @@ Kegunaan file file kode:
 3. DangerousTwit_clean.ipynb
 ---
 
+## Code dan dataset  
+[Code dan dataset](https://itsacid-my.sharepoint.com/:u:/g/personal/baskoro_its_ac_id/EX4MeVDRnARBuNBcvx2RCZoBIluEnigB6-G2UN2tDLCT_g?e=36g3IV)
+
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [mhafidhrosyadi@mahasiswa]
-- Pembimbing Utama: [email@pembimbing]
+- Penulis: [mhafidhrosyadi@gmail.com]
+- Pembimbing Utama: [baskoro@if.its.ac.id]
