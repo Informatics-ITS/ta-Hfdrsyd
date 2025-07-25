@@ -11,12 +11,11 @@
 ## 📺 Demo Kode  
 
 
-[[Demo Kode]](https://www.youtube.com/watch?v=`VIDEO_ID`)  
+[![Tonton Video](Poster.png)](https://youtu.be/-----)
 *Klik di atas untuk menonton demo*
 
 ---
 
-*Konten selanjutnya hanya merupakan contoh awalan yang baik. Anda dapat berimprovisasi bila diperlukan.*
 
 ## 🛠 Panduan Instalasi & Menjalankan Kode
 
